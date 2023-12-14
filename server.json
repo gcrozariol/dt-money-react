@@ -4,7 +4,7 @@
       "id": 1,
       "description": "Website development",
       "type": "income",
-      "category": "Venda",
+      "category": "Sales",
       "price": 14000,
       "createdAt": "2023-12-13T17:31:38.923Z"
     },
@@ -12,9 +12,41 @@
       "id": 2,
       "description": "Hamburger",
       "type": "outcome",
-      "category": "Alimentação",
+      "category": "Food & Beverages",
       "price": 50,
       "createdAt": "2023-11-13T17:31:38.923Z"
+    },
+    {
+      "description": "Coffee",
+      "price": 5,
+      "category": "Food & Beverages",
+      "type": "outcome",
+      "createdAt": "2023-12-14T11:31:51.697Z",
+      "id": 3
+    },
+    {
+      "description": "Q&A",
+      "price": 100,
+      "category": "Sales",
+      "type": "income",
+      "createdAt": "2023-12-14T11:33:11.909Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Food & Beverages",
+      "type": "outcome",
+      "createdAt": "2023-12-14T11:42:10.029Z",
+      "id": 5
+    },
+    {
+      "description": "Mobile Application Development",
+      "price": 10000,
+      "category": "Sales",
+      "type": "income",
+      "createdAt": "2023-12-14T11:52:19.659Z",
+      "id": 6
     }
   ]
 }
