@@ -47,6 +47,14 @@
       "type": "income",
       "createdAt": "2023-12-14T11:52:19.659Z",
       "id": 6
+    },
+    {
+      "description": "Some transaction",
+      "price": 100,
+      "category": "Dog",
+      "type": "outcome",
+      "createdAt": "2023-12-15T13:09:41.061Z",
+      "id": 7
     }
   ]
 }
